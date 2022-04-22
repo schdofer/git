@@ -60,3 +60,21 @@ Uma TREE também possui seus metadados que são:
 - BLOB(s)
 - Hash do(s) BLOB(s)
 - Nome do arquivo(s) do(s) BLOB(s)
+
+<br />
+
+### **COMMIT**
+É o que dá sentido para alteração que você está fazendo. <br />
+É o que junta tudo, BLOB, TREE em um mesmo "snapshot". <br />
+Um COMMIT aponta para uma TREE. <br />
+Também aponta para um "parent" que é o COMMIT anterior a ele. <br />
+Também será gerado um Hash SHA1 para um COMMIT, sendo assim, qualquer alteração no SHA1 de um BLOB contido dentro de uma específica TREE também gerará alteração no Hash SHA1 desta mesma TREE que por sua vez gerará alteração no Hash de um COMMIT. <br />
+Um COMMIT também possui seus metadados que são:
+- Tipo de objeto (neste caso a string "commit")
+- TREE (que o commit aponta)
+- PARENT (commit anterior)
+- AUTHOR (autor do commit)
+- MESSAGE (mensagem do commit)
+- Timestamp (timestamp do momento do commit)
+- Gera um SHA1 baseado em toda essa informação, portanto qualquer mudança refletirá aqui
+
