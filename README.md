@@ -20,5 +20,5 @@ Para interação com Git, podemos usar sua CLI (Command-Line Interface) ou algum
 ### Tópicos sobre Git
 ----
 [Instalando o Git](./instalando-o-git.md) <br />
-[Como funnciona por baixo dos panos ?](./como-funciona-por-baixo-dos-panos.md) <br />
+[Como funciona por baixo dos panos ?](./como-funciona-por-baixo-dos-panos.md) <br />
 [Autenticação](./autenticacao.md) <br />
