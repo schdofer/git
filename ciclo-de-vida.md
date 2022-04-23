@@ -14,9 +14,9 @@ O ciclo de vida dos arquivos no Git traz os seguintes estágios:
 2. **Tracked**
     - Quando o arquivo está monitorado pelo Git
     - Neste caso ele pode estar em 3 diferentes estágios:
-        1. Unmodified - Está monitorado e sem modificações (tudo salvo no controle de versões)
-        2. Modified - Está monitorado mas tem alterações ainda não salvas
-        3. Staged - Está monitorado e na área de transferência para salvar alterações
+        1. **Unmodified** - Está monitorado e sem modificações (tudo salvo no controle de versões)
+        2. **Modified** - Está monitorado mas tem alterações ainda não salvas
+        3. **Staged** - Está monitorado e na área de transferência para salvar alterações
 
 ![Ciclo de vida dos arquivos](./assets/git-files-lifecycle.jpeg)
 
