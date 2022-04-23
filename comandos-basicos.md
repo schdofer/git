@@ -19,7 +19,7 @@ Segue a lista abaixo:
     - ```git config --global user.name schdofer```
         - Configura o ***username*** com o valor informado globalmente no seu Git
     - ```git config user.email meu_email@gmail.com```
-        - Configura o ***username*** com o valor informado para o repositório do diretório atual
+        - Configura o ***email*** com o valor informado para o repositório do diretório atual
     - ```git config --global user.email meu_email@gmail.com```
         - Configura o ***email*** com o valor informado globalmente no seu Git
     
