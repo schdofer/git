@@ -27,3 +27,5 @@ Para interação com Git, podemos usar sua CLI (Command-Line Interface) ou algum
 [Comandos básicos](./comandos-basicos.md) <br />
 [Branching e Merging](./branching-e-merging.md) <br />
 [Stashing](./stashing.md) <br />
+[Contribuindo com repositórios remotos](./repositorios-remotos.md) <br />
+[Desfazendo as coisas no Git](./desfazendo-as-coisas.md) <br />
