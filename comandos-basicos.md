@@ -13,6 +13,18 @@ Segue a lista abaixo:
     
     <br />
 
+- **Configurando dados do usuário que aparecerão na autoria dos commits**
+    - ```git config user.name schdofer```
+        - Configura o ***username*** com o valor informado para o repositório do diretório atual
+    - ```git config --global user.name schdofer```
+        - Configura o ***username*** com o valor informado globalmente no seu Git
+    - ```git config user.email meu_email@gmail.com```
+        - Configura o ***username*** com o valor informado para o repositório do diretório atual
+    - ```git config --global user.email meu_email@gmail.com```
+        - Configura o ***email*** com o valor informado globalmente no seu Git
+    
+    <br />    
+
 - **Verificando status de alterações no repositório e branch atual**
     - Inspeciona todo conteúdo verificando se existe algum arquivo pendente para commit.
     - ```git status```
