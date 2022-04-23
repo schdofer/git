@@ -29,3 +29,7 @@ O repositório remoto do GIT é exatamente como o repositório local, porém fic
 Arquivos vem para cá após um PUSH.
 
 <br />
+
+A imagem abaixo demonstra cada comando e como ele movimenta os arquivos dentro dos locais no Git.
+
+![Ciclo de vida dos arquivos](./assets/git-command-lifecycle.png)
