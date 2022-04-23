@@ -24,4 +24,5 @@ Para interação com Git, podemos usar sua CLI (Command-Line Interface) ou algum
 [Autenticação](./autenticacao.md) <br />
 [Arquitetura do Git](./arquitetura-git.md) <br />
 [Ciclo de vida](./ciclo-de-vida.md) <br />
-[Comandos básicos](./comandos-basicos.md)
+[Comandos básicos](./comandos-basicos.md) <br />
+[Branching e Merging](./branching-e-merging.md) <br />
