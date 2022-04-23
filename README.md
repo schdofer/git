@@ -26,3 +26,4 @@ Para interação com Git, podemos usar sua CLI (Command-Line Interface) ou algum
 [Ciclo de vida](./ciclo-de-vida.md) <br />
 [Comandos básicos](./comandos-basicos.md) <br />
 [Branching e Merging](./branching-e-merging.md) <br />
+[Stashing](./stashing.md) <br />
