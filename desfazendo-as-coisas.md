@@ -4,11 +4,6 @@ São eles: ***git checkout***,  ***git clean***,  ***git revert***, ***git reset
 
 <br />
 
-### git restore
-----
-
-<br />
-
 ### git checkout
 ----
 Git checkout é uma maneira fácil de “carregar” as capturas instantâneas salvas na máquina de desenvolvimento. Durante o curso normal de desenvolvimento, HEAD em geral aponta para a ramificação main ou para outra ramificação local, mas, quando você consulta um commit anterior, HEAD não aponta mais para uma ramificação — ele aponta direto para um commit. Esse estado é chamado de "HEAD desconectado".<br />
