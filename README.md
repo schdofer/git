@@ -29,3 +29,4 @@ Para interação com Git, podemos usar sua CLI (Command-Line Interface) ou algum
 [Stashing](./stashing.md) <br />
 [Contribuindo com repositórios remotos](./repositorios-remotos.md) <br />
 [Desfazendo as coisas no Git](./desfazendo-as-coisas.md) <br />
+[Github Pages](./github-pages.md) <br />
